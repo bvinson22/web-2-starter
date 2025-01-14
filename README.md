@@ -10,7 +10,7 @@
 
 ## Citations
 
-{normalize css}(https://necolas.github.io/normalize.css/)
+* {normalize css}(https://necolas.github.io/normalize.css/)
 {google fonts}(https://fonts.google.com/)
 
 Biolerplate for web 2
